@@ -44,7 +44,7 @@ Your teamwork made a real difference! 🙌
 ---
 
 
-## 📁 Project Structure
+
 Requirements
 
 - Node.js and npm
